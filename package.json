@@ -1,0 +1,27 @@
+{
+  "name": "ringan",
+  "version": "0.0.1",
+  "description": "Lightweight minimalist nodejs restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stardigits/ringan.git"
+  },
+  "keywords": [
+    "ringan",
+    "restful",
+    "api",
+    "rest",
+    "lightweight",
+    "minimalist"
+  ],
+  "author": "stardigits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stardigits/ringan/issues"
+  },
+  "homepage": "https://github.com/stardigits/ringan#readme"
+}
